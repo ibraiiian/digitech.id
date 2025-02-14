@@ -7,9 +7,6 @@
 - 🔹 UI/UX yang menarik dan responsif
 - 🔹 Artikel dan berita terkini
 
-## 📸 Tangkapan Layar
-![Preview](https://via.placeholder.com/800x400)  
-_(Tambahkan screenshot dari aplikasi jika ada)_
 
 ## 🛠️ Teknologi yang Digunakan
 - **Frontend:** Next.js (TypeScript, TSX), Tailwind CSS
